@@ -1,0 +1,26 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "Weather service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/maksgor/weather.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Zhuliki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maksgor/weather/issues"
+  },
+  "homepage": "https://github.com/maksgor/weather#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
