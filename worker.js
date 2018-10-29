@@ -9,7 +9,7 @@ const towns = [
   'chernihiv', 'cherkasy', 'kirovohrad',
   'mykolaiv', 'dnipropetrovsk', 'kherson',
   'zaporizhia', 'sumy', 'kharkiv',
-  'luhansk', 'donetsk', 'simferopol',
+  'luhansk', 'donetsk', 'simferopol', 'poltava'
 ];
 const apiQuery = 'https://query.yahooapis.com/v1/public/yql';
 

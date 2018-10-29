@@ -1,0 +1,29 @@
+body {
+    background-color: #d5eeec;
+}
+.tit {
+    padding: 5px 0 15px 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.mapdiv{
+    width: 1333px;
+    height: 889px;
+    margin: auto;
+    padding: auto;
+}
+
+.mapdiv path{
+    fill: #8590a7 !important;
+    stroke: #515778 !important;
+    stroke-width: 0.5px !important;
+    transition: fill 0.3s !important;
+}
+.mapdiv path:hover{
+    fill: #515778  !important;
+}
+.popover-header {
+    font-weight:bold;
+}
+.popover-body {
+    color: #423042;
+}
